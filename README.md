@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome!👋
+
+Hi there, I'm Milena Rickli Silvério 👩‍💻
+I am a 21 year old Brazilian programming student.
+
+I started my studies in programming in January 2022.
+
+At the moment I am focused on learning new things and gaining experience in the area.
 
 <!--
 **MilenaRickliS/MilenaRickliS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
