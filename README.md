@@ -2,7 +2,7 @@
 
 Hi there, I'm Milena Rickli Silvério 👩‍💻
 
-I am a 22 year old Brazilian programming student.
+I am a 24 year old Brazilian programming student.
 
 I started my studies in programming in January 2022.
 
